@@ -39,7 +39,7 @@ Deadlock.java文件如下：
 用javac的命令行如下:
 
     javac Deadlock.java	
-linux系统或者Windows系统下编写bat文件，放下和编译产生的Deadlock.class同一个目录下
+linux系统或者Windows系统下编写bat文件，放下和编译产生的Deadlock.class同一个目录下  
 bat文件如下:
 
     cd /d %~dp0
