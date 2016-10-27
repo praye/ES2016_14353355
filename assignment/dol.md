@@ -2,6 +2,7 @@
 ###这次的任务有两个：
 1. 修改example2，让3个square模块变成2个, tips:修改xml的iterator
 2. 修改example1，使其输出3次方数，tips:修改square.c  
+
 ####其实我们应该先来看example里面各文件是什么东东（TA说的）
 src文件夹：各进程（生产者，消费者，处理模块等）的功能定义  
 example1.xml：系统架构即模块连接方式定义  
